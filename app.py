@@ -149,5 +149,6 @@ def admin_libro_borrar():
 
      return redirect('/admin/libro')
 
-
+if __name__ =='__main__':
+    app.run(debug=True) 
 
