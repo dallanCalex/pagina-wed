@@ -151,5 +151,3 @@ def admin_libro_borrar():
 
 
 
-if __name__ =='__main__':
-    app.run(debug=True)
